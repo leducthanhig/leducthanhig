@@ -1,16 +1,36 @@
-### Hi there 👋
+### 🎇 Introducing Lê Đức Thành
 
-<!--
-**leducthanhig/leducthanhig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<table>
+    <tr>
+      <th>Attributes</th>
+      <th>Value</th>
+    </tr>
+    <tr>
+      <td>💳 Name</td>
+      <td><b>Lê Đức Thành<b></td>
+    </tr>
+    <tr>
+      <td>📅 DOB</td>
+      <td>Oct 3rd, 2005</td>
+    </tr>
+    <tr>
+      <td>🏡 Hometown</td>
+      <td>Long Thanh Town, Dong Nai Province, Vietnam</td>
+    </tr>
+    <tr>
+      <td>🏫 University</td>
+      <td><b><i>Vietnam National University of Ho Chi Minh City - University of Science</i></b></td>
+    </tr>
+    <tr>
+      <td>📮 Contact</td>
+      <td>
+        <ul>
+          <li>Email: <a href="mailto:leducthanh.ig@gmail.com">leducthanh.ig@gmail.com</a></li>
+          <li>Website: <a href="https://lexuanninh18122015.wixsite.com/leducthanh-vnuhcmus">lexuanninh18122015.wixsite.com/leducthanh-vnuhcmus</a></li>
+          <li>Facebook: <a href="https://web.facebook.com/leducthanh.ig">Lê Đức Thành</a></li>
+        </ul>
+      </td>
+    </tr>
+</table>
+</p>
